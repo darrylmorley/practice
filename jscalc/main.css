@@ -1,0 +1,11 @@
+html {
+  background-color: hsla(249, 100%, 52%, 0.59);
+}
+
+.field {
+  flex-basis: 0;
+}  
+
+.white {
+  color: white;
+}
